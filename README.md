@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mayurg5899
-- 👀 I’m interested in data science and machine learning domain.
+- 👀 I’m interested in data science,data analysis using pandas ,automating reporting stuffs with aws lambda and cronjobs and machine learning domain.
 - 🌱 I’m currently learning statistics,data visualization,python,pandas,numpy,eda,machine learning,maths for ml,tableau,flask,django,automating stuffs with python,
      aws lambda ,serverless,cronjobs,aws services ,etc
 - 💞️ I’m looking to collaborate on projects related to python coding or software developement projects related to python programming or usage of flask or django,
